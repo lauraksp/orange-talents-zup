@@ -267,11 +267,11 @@ Acima, criei uma classe Utils (utilitária) para ser usada em qualquer lugar do 
 
 > Abaixo tem a API funcionando e retornando os dados e os status : 
 
-<img src="home/lauraksp/Área de Trabalho/Java OO" alt="teste1"/>
+![alt text](https://github.com/lauraksp/orange-talents-zup/blob/develop/images/teste1.jpeg?raw=true)
 
-<img src="/docs/logo.png" alt="teste2"/>
+![alt text](https://github.com/lauraksp/orange-talents-zup/blob/develop/images/teste2.jpeg?raw=true)
 
-<img src="/docs/logo.png" alt="teste3"/>
+![alt text](https://github.com/lauraksp/orange-talents-zup/blob/develop/images/teste3.jpeg?raw=true)
 
-<img src="/docs/logo.png" alt="teste4"/>
+![alt text](https://github.com/lauraksp/orange-talents-zup/blob/develop/images/teste4.jpeg?raw=true)
 
