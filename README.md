@@ -265,6 +265,13 @@ Após terminar essa parte, iniciei o dia do rodízio utilizando o último dígit
 ```
 Acima, criei uma classe Utils (utilitária) para ser usada em qualquer lugar do projeto. O método retorna o dia da semana pra ser utilizado na função do VehicleService, fazendo a comparação do dia de rodízio do veículo.
 
+> Abaixo tem a API funcionando e retornando os dados e os status : 
 
+<img src="home/lauraksp/Área de Trabalho/Java OO" alt="teste1"/>
 
+<img src="/docs/logo.png" alt="teste2"/>
+
+<img src="/docs/logo.png" alt="teste3"/>
+
+<img src="/docs/logo.png" alt="teste4"/>
 
