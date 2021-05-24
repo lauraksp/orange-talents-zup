@@ -21,6 +21,4 @@ public class VehicleController {
                 ModelNotFoundException, VehicleYearNotFoundException {
         return vehicleService.saveVehicle(vehicle, id);
     }
-
-
 }
